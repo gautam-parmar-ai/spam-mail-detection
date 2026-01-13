@@ -31,7 +31,7 @@ The notebook walks through:
 
 ## 📂 Project Structure
 
-```text
+
 ├── spam_mail.ipynb        # Main Jupyter notebook
 ├── README.md              # Project documentation
 
